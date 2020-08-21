@@ -1,0 +1,19 @@
+https://www.ratemyarea.com ?can this be used for the database also ?scrape all locations into notepad document
+
+https://www.m.facebook.com/name_of_user
+
+
+
+GooglePlacesAPI
+
+https://maps.googleapis.com/maps/api/place/details/json?place_id="+placeid+"&fields=formatted_phone_number&radius=5000&key="+API_KEY
+
+location — The latitude/longitude around which to retrieve place 
+    information. This must be specified as latitude,longitude. 
+    If you specify a location parameter, you must also specify a 
+    radius parameter.
+radius — Defines the distance (in meters) within which to bias place 
+    results. The maximum allowed radius is 50 000 meters. 
+    Results inside of this region will be ranked higher than results 
+    outside of the search circle; however, prominent 
+    results from outside of the search radius may be included.

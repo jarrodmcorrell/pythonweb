@@ -1,0 +1,832 @@
+Abilene, Texas
+Acworth, Georgia
+Aiken, South Carolina
+Akron, Ohio
+Alameda, California
+Albany, Georgia
+Albany, New York
+Albuquerque, New Mexico
+Alexandria, Virginia
+Alhambra, California
+Allen, Texas
+Allentown, Pennsylvania
+Alpharetta, Georgia
+Amarillo, Texas
+Anaheim, California
+Anchorage, Alaska
+Anderson, Indiana
+Anderson, South Carolina
+Ann Arbor, Michigan
+Annapolis, Maryland
+Antioch, California
+Antioch, Tennessee
+Apopka, Florida
+Apple Valley, California
+Appleton, Wisconsin
+Arcadia, California
+Arlington Heights, Illinois
+Arlington, Texas
+Arlington, Virginia
+Arvada, Colorado
+Ashburn, Virginia
+Asheville, North Carolina
+Astoria, New York
+Athens, Georgia
+Atlanta, Georgia
+Auburn, Washington
+Augusta, Georgia
+Aurora, Colorado
+Aurora, Illinois
+Austin, Texas
+Avondale, Arizona
+Bakersfield, California
+Baldwin Park, California
+Ballwin, Missouri
+Baltimore, Maryland
+Baton Rouge, Louisiana
+Battle Creek, Michigan
+Bay City, Michigan
+Bay Shore, New York
+Baytown, Texas
+Beaumont, Texas
+Beaverton, Oregon
+Bel Air, Maryland
+Bell Gardens, California
+Belleville, Illinois
+Bellevue, Nebraska
+Bellevue, Washington
+Bellflower, California
+Bellingham, Washington
+Bend, Oregon
+Berkeley, California
+Bessemer, Alabama
+Bethesda, Maryland
+Bethlehem, Pennsylvania
+Billings, Montana
+Binghamton, New York
+Birmingham, Alabama
+Bismarck, North Dakota
+Bloomington, Illinois
+Bloomington, Indiana
+Boca Raton, Florida
+Boise, Idaho
+Bolingbrook, Illinois
+Bossier City, Louisiana
+Boston, Massachusetts
+Bothell, Washington
+Boulder, Colorado
+Bowie, Maryland
+Bowling Green, Kentucky
+Boynton Beach, Florida
+Bradenton, Florida
+Brandon, Florida
+Brandon, Mississippi
+Bremerton, Washington
+Brick, New Jersey
+Bridgeport, Connecticut
+Brighton, Colorado
+Bristol, Connecticut
+Brockton, Massachusetts
+Broken Arrow, Oklahoma
+Bronx, New York
+Brooklyn, New York
+Broomfield, Colorado
+Brownsville, Texas
+Bryan, Texas
+Buena Park, California
+Buffalo, New York
+Buford, Georgia
+Burbank, California
+Burlington, North Carolina
+Burnsville, Minnesota
+Calexico, California
+Camarillo, California
+Cambridge, Massachusetts
+Canoga Park, California
+Canton, Georgia
+Canton, Michigan
+Canton, Ohio
+Canyon Country, California
+Cape Coral, Florida
+Carlsbad, California
+Carmel, Indiana
+Carrollton, Texas
+Carson, California
+Cary, North Carolina
+Casper, Wyoming
+Castle Rock, Colorado
+Cedar Park, Texas
+Cedar Rapids, Iowa
+Centreville, Virginia
+Champaign, Illinois
+Chandler, Arizona
+Chapel Hill, North Carolina
+Charleston, South Carolina
+Charleston, West Virginia
+Charlotte, North Carolina
+Charlottesville, Virginia
+Chattanooga, Tennessee
+Cherry Hill, New Jersey
+Chesapeake, Virginia
+Chesterfield, Missouri
+Cheyenne, Wyoming
+Chicago, Illinois
+Chico, California
+Chino, California
+Chino Hills, California
+Chula Vista, California
+Cicero, Illinois
+Cincinnati, Ohio
+Citrus Heights, California
+Clarksville, Tennessee
+Clearwater, Florida
+Clermont, Florida
+Cleveland, Ohio
+Cleveland, Tennessee
+Clifton, New Jersey
+Clinton Township, Michigan
+Clovis, California
+College Station, Texas
+Colorado Springs, Colorado
+Columbia, Maryland
+Columbia, Missouri
+Columbia, South Carolina
+Columbus, Georgia
+Columbus, Indiana
+Columbus, Ohio
+Compton, California
+Concord, California
+Concord, North Carolina
+Conroe, Texas
+Conway, Arkansas
+Conyers, Georgia
+Cordova, Tennessee
+Corona, California
+Corona, New York
+Corpus Christi, Texas
+Costa Mesa, California
+Council Bluffs, Iowa
+Covina, California
+Covington, Georgia
+Cranston, Rhode Island
+Crown Point, Indiana
+Crystal Lake, Illinois
+Cumming, Georgia
+Cupertino, California
+Cypress, Texas
+Dallas, Georgia
+Dallas, Texas
+Dalton, Georgia
+Daly City, California
+Danbury, Connecticut
+Davenport, Iowa
+Dayton, Ohio
+Daytona Beach, Florida
+Dearborn, Michigan
+Decatur, Alabama
+Decatur, Georgia
+Decatur, Illinois
+Delray Beach, Florida
+Deltona, Florida
+Denham Springs, Louisiana
+Denton, Texas
+Denver, Colorado
+Des Moines, Iowa
+Des Plaines, Illinois
+Detroit, Michigan
+Dorchester, Massachusetts
+Dothan, Alabama
+Douglasville, Georgia
+Dover, Delaware
+Downers Grove, Illinois
+Downey, California
+Dublin, Ohio
+Dubuque, Iowa
+Duluth, Georgia
+Duluth, Minnesota
+Durham, North Carolina
+Easton, Pennsylvania
+Eau Claire, Wisconsin
+Eden Prairie, Minnesota
+Edinburg, Texas
+Edison, New Jersey
+Edmond, Oklahoma
+El Cajon, California
+El Monte, California
+El Paso, Texas
+Elgin, Illinois
+Elizabeth, New Jersey
+Elk Grove, California
+Elkhart, Indiana
+Ellicott City, Maryland
+Elmhurst, New York
+Elyria, Ohio
+Englewood, Colorado
+Erie, Pennsylvania
+Escondido, California
+Eugene, Oregon
+Evanston, Illinois
+Evansville, Indiana
+Everett, Washington
+Fairbanks, Alaska
+Fairfax, Virginia
+Fairfield, California
+Fall River, Massachusetts
+Falls Church, Virginia
+Fargo, North Dakota
+Farmington, Michigan
+Farmington, New Mexico
+Fayetteville, Arkansas
+Fayetteville, North Carolina
+Federal Way, Washington
+Fishers, Indiana
+Flagstaff, Arizona
+Flint, Michigan
+Florence, South Carolina
+Florissant, Missouri
+Flower Mound, Texas
+Flushing, New York
+Folsom, California
+Fond Du Lac, Wisconsin
+Fontana, California
+Forest Hills, New York
+Fort Collins, Colorado
+Fort Lauderdale, Florida
+Fort Mill, South Carolina
+Fort Myers, Florida
+Fort Pierce, Florida
+Fort Smith, Arkansas
+Fort Wayne, Indiana
+Fort Worth, Texas
+Framingham, Massachusetts
+Franklin, Tennessee
+Frederick, Maryland
+Fredericksburg, Virginia
+Fremont, California
+Fresno, California
+Frisco, Texas
+Fullerton, California
+Gadsden, Alabama
+Gainesville, Florida
+Gainesville, Georgia
+Gaithersburg, Maryland
+Garden Grove, California
+Gardena, California
+Garland, Texas
+Gary, Indiana
+Gastonia, North Carolina
+Georgetown, Texas
+Germantown, Maryland
+Gilbert, Arizona
+Glen Allen, Virginia
+Glen Burnie, Maryland
+Glendale, Arizona
+Glendale, California
+Goldsboro, North Carolina
+Grand Junction, Colorado
+Grand Prairie, Texas
+Grand Rapids, Michigan
+Grants Pass, Oregon
+Great Falls, Montana
+Greeley, Colorado
+Green Bay, Wisconsin
+Greensboro, North Carolina
+Greenville, North Carolina
+Greenville, South Carolina
+Greenwood, Indiana
+Greer, South Carolina
+Gresham, Oregon
+Gulfport, Mississippi
+Hagerstown, Maryland
+Hamilton, Ohio
+Hammond, Indiana
+Hampton, Virginia
+Harlingen, Texas
+Harrisburg, Pennsylvania
+Hartford, Connecticut
+Hattiesburg, Mississippi
+Hawthorne, California
+Hayward, California
+Hemet, California
+Henderson, Nevada
+Hendersonville, Tennessee
+Henrico, Virginia
+Herndon, Virginia
+Hesperia, California
+Hialeah, Florida
+Hickory, North Carolina
+High Point, North Carolina
+Hillsboro, Oregon
+Holland, Michigan
+Hollywood, Florida
+Homestead, Florida
+Honolulu, Hawaii
+Hot Springs National Park, Arkansas
+Houma, Louisiana
+Houston, Texas
+Humble, Texas
+Huntington Beach, California
+Huntington Park, California
+Huntington Station, New York
+Huntington, West Virginia
+Huntsville, Alabama
+Hyattsville, Maryland
+Idaho Falls, Idaho
+Independence, Missouri
+Indianapolis, Indiana
+Indio, California
+Inglewood, California
+Iowa City, Iowa
+Irvine, California
+Irving, Texas
+Jackson Heights, New York
+Jackson, Michigan
+Jackson, Mississippi
+Jackson, Tennessee
+Jacksonville, Florida
+Jacksonville, North Carolina
+Jamaica, New York
+Janesville, Wisconsin
+Jefferson City, Missouri
+Jersey City, New Jersey
+Johnson City, Tennessee
+Johnstown, Pennsylvania
+Joliet, Illinois
+Jonesboro, Arkansas
+Jonesboro, Georgia
+Joplin, Missouri
+Jupiter, Florida
+Kalamazoo, Michigan
+Kansas City, Kansas
+Kansas City, Missouri
+Katy, Texas
+Keller, Texas
+Kenner, Louisiana
+Kennesaw, Georgia
+Kennewick, Washington
+Kenosha, Wisconsin
+Kent, Washington
+Killeen, Texas
+Kingsport, Tennessee
+Kingwood, Texas
+Kirkland, Washington
+Kissimmee, Florida
+Knoxville, Tennessee
+Kokomo, Indiana
+La Habra, California
+La Mesa, California
+La Puente, California
+Lafayette, Indiana
+Lafayette, Louisiana
+Laguna Niguel, California
+Lake Charles, Louisiana
+Lake Forest, California
+Lake Worth, Florida
+Lakeland, Florida
+Lakewood, California
+Lakewood, New Jersey
+Lancaster, California
+Lancaster, Pennsylvania
+Lansing, Michigan
+Laredo, Texas
+Largo, Florida
+Las Cruces, New Mexico
+Las Vegas, Nevada
+Laurel, Maryland
+Lawrence, Kansas
+Lawrence, Massachusetts
+Lawrenceville, Georgia
+Lawton, Oklahoma
+Layton, Utah
+League City, Texas
+Lebanon, Pennsylvania
+Lees Summit, Missouri
+Leesburg, Virginia
+Lehigh Acres, Florida
+Levittown, Pennsylvania
+Lewisville, Texas
+Lexington, Kentucky
+Lexington, North Carolina
+Lexington, South Carolina
+Lima, Ohio
+Lincoln, Nebraska
+Lithonia, Georgia
+Little Rock, Arkansas
+Littleton, Colorado
+Livermore, California
+Livonia, Michigan
+Lodi, California
+Long Beach, California
+Longmont, Colorado
+Longview, Texas
+Lorain, Ohio
+Los Angeles, California
+Louisville, Kentucky
+Loveland, Colorado
+Lowell, Massachusetts
+Lubbock, Texas
+Lynchburg, Virginia
+Lynn, Massachusetts
+Lynnwood, Washington
+Macomb, Michigan
+Macon, Georgia
+Madera, California
+Madison, Alabama
+Madison, Wisconsin
+Manassas, Virginia
+Manchester, New Hampshire
+Mansfield, Ohio
+Mansfield, Texas
+Manteca, California
+Marietta, Georgia
+Marysville, Washington
+Maryville, Tennessee
+Massillon, Ohio
+Matthews, North Carolina
+Mcallen, Texas
+Mcdonough, Georgia
+Mchenry, Illinois
+Mckinney, Texas
+Mechanicsburg, Pennsylvania
+Mechanicsville, Virginia
+Medford, Oregon
+Medina, Ohio
+Melbourne, Florida
+Memphis, Tennessee
+Mentor, Ohio
+Merced, California
+Meridian, Idaho
+Mesa, Arizona
+Mesquite, Texas
+Metairie, Louisiana
+Miami Beach, Florida
+Miami, Florida
+Middletown, Ohio
+Midland, Michigan
+Midland, Texas
+Midlothian, Virginia
+Milpitas, California
+Milton, Florida
+Milwaukee, Wisconsin
+Minneapolis, Minnesota
+Mission, Texas
+Mission Viejo, California
+Missoula, Montana
+Missouri City, Texas
+Mobile, Alabama
+Modesto, California
+Monroe, Louisiana
+Monroe, North Carolina
+Montgomery, Alabama
+Mooresville, North Carolina
+Moreno Valley, California
+Morgantown, West Virginia
+Mount Pleasant, South Carolina
+Mount Vernon, New York
+Mountain View, California
+Muncie, Indiana
+Murfreesboro, Tennessee
+Murrieta, California
+Muskegon, Michigan
+Myrtle Beach, South Carolina
+Nampa, Idaho
+Napa, California
+Naperville, Illinois
+Naples, Florida
+Nashua, New Hampshire
+Nashville, Tennessee
+New Bedford, Massachusetts
+New Bern, North Carolina
+New Braunfels, Texas
+New Britain, Connecticut
+New Haven, Connecticut
+New Orleans, Louisiana
+New Port Richey, Florida
+New Rochelle, New York
+New York, New York
+Newark, Delaware
+Newark, New Jersey
+Newnan, Georgia
+Newport Beach, California
+Newport News, Virginia
+Niagara Falls, New York
+Noblesville, Indiana
+Norcross, Georgia
+Norfolk, Virginia
+Norman, Oklahoma
+Norristown, Pennsylvania
+North Charleston, South Carolina
+North Hollywood, California
+North Las Vegas, Nevada
+North Little Rock, Arkansas
+North Richland Hills, Texas
+Norwalk, California
+Norwalk, Connecticut
+O Fallon, Missouri
+Oakland, California
+Ocala, Florida
+Oceanside, California
+Odessa, Texas
+Ogden, Utah
+Oklahoma City, Oklahoma
+Olathe, Kansas
+Olympia, Washington
+Omaha, Nebraska
+Ontario, California
+Opa Locka, Florida
+Orange, California
+Orange Park, Florida
+Orem, Utah
+Orland Park, Illinois
+Orlando, Florida
+Ormond Beach, Florida
+Oshkosh, Wisconsin
+Osseo, Minnesota
+Overland Park, Kansas
+Oviedo, Florida
+Owensboro, Kentucky
+Oxnard, California
+Pacoima, California
+Palatine, Illinois
+Palm Bay, Florida
+Palm Beach Gardens, Florida
+Palm Coast, Florida
+Palm Harbor, Florida
+Palmdale, California
+Palo Alto, California
+Panama City, Florida
+Parker, Colorado
+Parkville, Maryland
+Pasadena, California
+Pasadena, Maryland
+Pasadena, Texas
+Pasco, Washington
+Passaic, New Jersey
+Paterson, New Jersey
+Pawtucket, Rhode Island
+Pearland, Texas
+Pensacola, Florida
+Peoria, Arizona
+Peoria, Illinois
+Perris, California
+Petaluma, California
+Pflugerville, Texas
+Philadelphia, Pennsylvania
+Phoenix, Arizona
+Pittsburg, California
+Pittsburgh, Pennsylvania
+Plainfield, Illinois
+Plainfield, New Jersey
+Plano, Texas
+Plant City, Florida
+Pleasanton, California
+Pocatello, Idaho
+Pomona, California
+Pompano Beach, Florida
+Port Charlotte, Florida
+Port Orange, Florida
+Port Saint Lucie, Florida
+Porterville, California
+Portland, Oregon
+Portsmouth, Virginia
+Pottstown, Pennsylvania
+Poughkeepsie, New York
+Providence, Rhode Island
+Provo, Utah
+Pueblo, Colorado
+Puyallup, Washington
+Queens Village, New York
+Quincy, Massachusetts
+Racine, Wisconsin
+Raleigh, North Carolina
+Rancho Cucamonga, California
+Rapid City, South Dakota
+Reading, Pennsylvania
+Redding, California
+Redlands, California
+Redmond, Washington
+Redondo Beach, California
+Redwood City, California
+Reno, Nevada
+Renton, Washington
+Reseda, California
+Reston, Virginia
+Rialto, California
+Richardson, Texas
+Richmond, California
+Richmond, Texas
+Richmond, Virginia
+Ridgewood, New York
+Rio Rancho, New Mexico
+Riverside, California
+Riverview, Florida
+Roanoke, Virginia
+Rochester, Michigan
+Rochester, Minnesota
+Rochester, New York
+Rock Hill, South Carolina
+Rockford, Illinois
+Rockville, Maryland
+Rocky Mount, North Carolina
+Rogers, Arkansas
+Rome, Georgia
+Roseville, California
+Roswell, Georgia
+Round Rock, Texas
+Sacramento, California
+Saginaw, Michigan
+Saint Augustine, Florida
+Saint Charles, Illinois
+Saint Charles, Missouri
+Saint Clair Shores, Michigan
+Saint Cloud, Minnesota
+Saint George, Utah
+Saint Joseph, Missouri
+Saint Louis, Missouri
+Saint Paul, Minnesota
+Saint Peters, Missouri
+Saint Petersburg, Florida
+Salem, Oregon
+Salinas, California
+Salisbury, North Carolina
+Salt Lake City, Utah
+San Angelo, Texas
+San Antonio, Texas
+San Bernardino, California
+San Clemente, California
+San Diego, California
+San Francisco, California
+San Gabriel, California
+San Jose, California
+San Leandro, California
+San Marcos, California
+San Mateo, California
+San Pedro, California
+San Rafael, California
+San Ramon, California
+Sandy, Utah
+Sanford, Florida
+Sanford, North Carolina
+Santa Ana, California
+Santa Barbara, California
+Santa Clara, California
+Santa Cruz, California
+Santa Fe, New Mexico
+Santa Maria, California
+Santa Monica, California
+Santa Rosa, California
+Sarasota, Florida
+Savannah, Georgia
+Schaumburg, Illinois
+Schenectady, New York
+Scottsdale, Arizona
+Scranton, Pennsylvania
+Seattle, Washington
+Shawnee, Kansas
+Sheboygan, Wisconsin
+Shreveport, Louisiana
+Silver Spring, Maryland
+Simi Valley, California
+Simpsonville, South Carolina
+Sioux City, Iowa
+Sioux Falls, South Dakota
+Skokie, Illinois
+Slidell, Louisiana
+Smyrna, Georgia
+Snellville, Georgia
+Somerville, Massachusetts
+South Bend, Indiana
+South Gate, California
+South San Francisco, California
+Southfield, Michigan
+Sparks, Nevada
+Spartanburg, South Carolina
+Spokane, Washington
+Spring Hill, Florida
+Spring, Texas
+Spring Valley, California
+Springdale, Arkansas
+Springfield, Illinois
+Springfield, Massachusetts
+Springfield, Missouri
+Springfield, Ohio
+Springfield, Oregon
+Springfield, Virginia
+Stafford, Virginia
+Stamford, Connecticut
+Staten Island, New York
+Statesville, North Carolina
+Sterling Heights, Michigan
+Sterling, Virginia
+Stockbridge, Georgia
+Stockton, California
+Stone Mountain, Georgia
+Stuart, Florida
+Suffolk, Virginia
+Sugar Land, Texas
+Summerville, South Carolina
+Sumter, South Carolina
+Sunnyvale, California
+Surprise, Arizona
+Suwanee, Georgia
+Sylmar, California
+Syracuse, New York
+Tacoma, Washington
+Tallahassee, Florida
+Tampa, Florida
+Taylor, Michigan
+Temecula, California
+Tempe, Arizona
+Temple, Texas
+Terre Haute, Indiana
+Thousand Oaks, California
+Tinley Park, Illinois
+Toledo, Ohio
+Tomball, Texas
+Toms River, New Jersey
+Topeka, Kansas
+Torrance, California
+Tracy, California
+Traverse City, Michigan
+Trenton, New Jersey
+Troy, Michigan
+Troy, New York
+Tucson, Arizona
+Tulsa, Oklahoma
+Turlock, California
+Tuscaloosa, Alabama
+Tustin, California
+Tyler, Texas
+Union City, California
+Upland, California
+Upper Marlboro, Maryland
+Utica, Michigan
+Vacaville, California
+Valdosta, Georgia
+Vallejo, California
+Valley Stream, New York
+Valparaiso, Indiana
+Valrico, Florida
+Van Nuys, California
+Vancouver, Washington
+Venice, Florida
+Ventura, California
+Vero Beach, Florida
+Victoria, Texas
+Victorville, California
+Vienna, Virginia
+Vineland, New Jersey
+Virginia Beach, Virginia
+Visalia, California
+Vista, California
+Waco, Texas
+Waipahu, Hawaii
+Waldorf, Maryland
+Walnut Creek, California
+Warner Robins, Georgia
+Warren, Michigan
+Warren, Ohio
+Warwick, Rhode Island
+Washington D.C.
+Waterbury, Connecticut
+Waterford, Michigan
+Waterloo, Iowa
+Watsonville, California
+Waukegan, Illinois
+Waukesha, Wisconsin
+Weatherford, Texas
+West Bloomfield, Michigan
+West Chester, Pennsylvania
+West Covina, California
+West Hartford, Connecticut
+West Jordan, Utah
+West Palm Beach, Florida
+Westerville, Ohio
+Westland, Michigan
+Westminster, California
+Wheaton, Illinois
+White Plains, New York
+Whittier, California
+Wichita Falls, Texas
+Wichita, Kansas
+Wilkes Barre, Pennsylvania
+Williamsburg, Virginia
+Wilmington, Delaware
+Wilmington, North Carolina
+Winchester, Virginia
+Winston Salem, North Carolina
+Winter Haven, Florida
+Winter Park, Florida
+Woodbridge, Virginia
+Woodland Hills, California
+Woodside, New York
+Woodstock, Georgia
+Worcester, Massachusetts
+Yakima, Washington
+Yonkers, New York
+Yorba Linda, California
+York, Pennsylvania
+Youngstown, Ohio
+Ypsilanti, Michigan
+Yuba City, California
+Yuma, Arizona

@@ -1,0 +1,46 @@
+#title: magleads dbm
+#version: 0.01
+#idea: uses google places api to find businesses near location specified
+#goal: poors into database after user review
+#creator: jarrod correll
+
+
+
+from bs4 import BeautifulSoup
+import requests
+from os import system
+
+system('cls')
+print("magleads dbm --version 0.01")
+print("commands: ")
+print("<add>: adds new entries, takes parameters type and location")
+print("<edit>: edit entries in the database")
+
+a = 1
+
+while(a==1):
+    command = input("$:")
+    if command == "add":
+        print("add command")
+    elif command == "edit":
+        print("edit command")
+    elif command == "quit":
+        print("bye bye")
+        a=2
+        break;
+    else:
+        print("invalid command")
+
+print("...done")
+
+
+
+
+
+#r = requests.get('https://www.google.com')
+#soup = BeautifulSoup(r.content, 'html5lib')
+#print(soup.prettify())
+
+
+
+
