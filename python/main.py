@@ -4,13 +4,15 @@
 #goal: poors into database after user review
 #creator: jarrod correll
 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import requests
 from os import system
 import googlemaps
 import pprint
 import time
 import requests,json
+
+f = open("results.txt","w")
 
 API_KEY = 'AIzaSyA9kukEGExnGpRUomg3k98YKs_wdkUM4Qw'
 gmaps = googlemaps.Client(key = API_KEY)
@@ -20,36 +22,48 @@ def gmapsfind(loc,genre):
     r = requests.get(url + 'query=' + genre+"in"+loc + "&key=" + API_KEY)
     x = r.json()
     y = x['results']
+    try:
+    	z = x['next_page_token']
+    except:
+	    print("no next page")
     
-    z = x['next_page_token']
+    
     number = 0
 
     for i in range(len(y)):
+        start = time.time()
         #print(y[i])
-        print("Name: " + y[i]['name'])
-        print("Type: " + genre)
-        print("Location: " + y[i]['formatted_address'])
-        print("Place Id: " + y[i]['place_id'])
-        print("Phone #: " + getPhone(y[i]['place_id']))
-        print("Website: " + getWebsite(y[i]['place_id']))
+        wtw = "Name: " + y[i]['name'] + ", " + "Type: " + genre.capitalize() + ", " + "Location: " + y[i]['formatted_address'] + ", " +"Phone #: " + getPhone(y[i]['place_id'])+ ", " + "Website: " + getWebsite(y[i]['place_id'], loc)
+        f.write(wtw + "\n")
+        #f.write("Type: " + genre + ", ")
+        #f.write("Location: " + y[i]['formatted_address']+ ", ")
+        #f.write("Place Id: " + y[i]['place_id']+ ", ")
+        #f.write("Phone #: " + getPhone(y[i]['place_id'])+ ", ")
+        #f.write("Website: " + getWebsite(y[i]['place_id'])+ "\n")
         number = number+1
+        print(number)
 
     if number==20:
         url = "https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken="
         r = requests.get(url+z+"&key=" + API_KEY)
         a = r.json()
         b = a['results']
-
-        c = a['next_page_token']
+        try:
+            c = a['next_page_token']
+        except:
+            print("no next page")
 
         for i in range(len(b)):
-            print("Name: " + b[i]['name'])
-            print("Type: " + genre)
-            print("Location: " + b[i]['formatted_address'])
-            print("Place Id: " + b[i]['place_id'])
-            print("Phone #: " + getPhone(b[i]['place_id']))
-            print("Website: " + getWebsite(b[i]['place_id']))
+            ytw = "Name: " + b[i]['name'] + ", " + "Type: " + genre.capitalize() + ", " + "Location: " + b[i]['formatted_address'] + ", " +"Phone #: " + getPhone(b[i]['place_id'])+ ", " + "Website: " + getWebsite(b[i]['place_id'], loc)
+            f.write(ytw + "\n")
+            #print("Name: " + b[i]['name'])
+            #print("Type: " + genre)
+            #print("Location: " + b[i]['formatted_address'])
+            #print("Place Id: " + b[i]['place_id'])
+            #print("Phone #: " + getPhone(b[i]['place_id']))
+            #print("Website: " + getWebsite(b[i]['place_id'], loc))
             number = number+1
+            print(number)
 
         if number == 40:
             url = "https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken="
@@ -58,22 +72,28 @@ def gmapsfind(loc,genre):
             e = d['results']
 
             for i in range(len(e)):
-                print("Name: " + e[i]['name'])
-                print("Type: " + genre)
-                print("Location: " + e[i]['formatted_address'])
-                print("Place Id: " + e[i]['place_id'])
-                print("Phone #: " + getPhone(e[i]['place_id']))
-                print("Website: " + getWebsite(e[i]['place_id']))
+                ytw = "Name: " + e[i]['name'] + ", " + "Type: " + genre.capitalize() + ", " + "Location: " + e[i]['formatted_address'] + ", " +"Phone #: " + getPhone(e[i]['place_id'])+ ", " + "Website: " + getWebsite(e[i]['place_id'], loc)
+                f.write(ytw + "\n")
+                #print("Name: " + e[i]['name'])
+                #print("Type: " + genre)
+                #print("Location: " + e[i]['formatted_address'])
+                #print("Place Id: " + e[i]['place_id'])
+                #print("Phone #: " + getPhone(e[i]['place_id']))
+                #print("Website: " + getWebsite(e[i]['place_id'], loc))
                 number = number+1
+                print(number)
+
         else:
             print("No third page")
     else:
         print("No second page")
+    end = time.time()
     
-    print("" + str(number) + " result(s) for " + genre + "s in "+ loc)
+    print("" + str(number) + " result(s) for " + genre + "s in "+ loc + "\nElapsed Time: ")
+    print(end-start)
     
 
-def getWebsite(placeid):
+def getWebsite(placeid, location):
     url = "https://maps.googleapis.com/maps/api/place/details/json?place_id="+placeid+"&fields=website&key="+API_KEY
     r = requests.get(url)
     x=r.json()
@@ -100,15 +120,17 @@ def getPhone(placeid):
 def yelpfind(loc,genre):
     print("yelpyelpyelp")
 
-system('cls')
+system('clear')
 print("magleads dbm --version 0.01")
 print("commands: ")
 print("<add>: adds new entries, takes parameters type and location")
 print("<edit>: edit entries in the database")
 print("<quit>: exits the dbm")
 
-a = 1
+#gmapsfind('Venice, Italy', 'cafe')
 
+
+a = 1
 while(a==1):
     command = input("$:")
     if command == "add":
